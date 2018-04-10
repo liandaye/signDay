@@ -1,0 +1,30 @@
+﻿* { margin: 0; padding: 0; list-style: none; }
+input { outline: none; }
+img { border: none; }
+html, body {  font-family: 微软雅黑; overflow: auto; }
+body { font-size: 16px; line-height: 1.5; font-family: 'Microsoft Yahei','simsun','arial','tahoma'; color: #222; }
+table { border-collapse: collapse; border-spacing: 0; }
+h1, h2, h3, h4, h5, h6, th { font-size: 100%; font-weight: normal; }
+button, input, select, textarea { font-size: 100%; }
+a { text-decoration: none; -webkit-tap-highlight-color: rgba(0,0,0,0); color: #111; }
+    a:hover { text-decoration: none; }
+.clear { clear: both; }
+.fl { float: left; }
+.fr { float: right; }
+.tc { text-align: center; }
+.f12 { font-size: 12px; }
+.f14 { font-size: 14px; }
+.h100 { height: 100%; }
+.h20 { height: 20px; }
+.h45 { height: 45px; }
+.h60 { height: 60px; }
+.w100 { width: 100%; }
+.pon { cursor: pointer; }
+.hidden { display: none; }
+.block { display: block; }
+.FB { font-weight: bold; }
+.mau { margin: 0 auto; }
+.dil { display: inline-block; }
+.db { display: block; }
+p { margin: 0; }
+.cf { color: #fff; }
